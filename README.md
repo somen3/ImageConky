@@ -12,6 +12,7 @@
 ## Usage 
 
 - Using ImageConky is just so simple, and all you have to do is save any image or screenshot as image.png in ~/.conky/ImageConky/
+
   - Flameshot would be a handy tool to use with this conky
   - Besides, you can even save any wallpaper of your choice to be displayed in the conky; however, you must ensure that you name it as image.png, and save it to ~/.conky/ImageConky/
 
