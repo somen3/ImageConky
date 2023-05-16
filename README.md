@@ -6,7 +6,7 @@
 <img src="https://github.com/somen3/ImageConky/assets/92948254/8c9101b1-b845-46c8-bb6b-4f9e9385073a">
 </p>
 
-
+Image source: [WallPaper Access](https://wallpaperaccess.com/)
 
 ## Installation
 
