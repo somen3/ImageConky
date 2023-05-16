@@ -2,6 +2,12 @@
 
 ## ImageConky is a image-only conky that you can use with your regular conky through the Conky Manager. The conky lets you add any image or screenshot to the bottom_right. 
 
+<p align="center">
+<img src="https://github.com/somen3/ImageConky/assets/92948254/8c9101b1-b845-46c8-bb6b-4f9e9385073a">
+</p>
+
+
+
 ## Installation
 
 - Download ImageConky.zip, and extract the file
